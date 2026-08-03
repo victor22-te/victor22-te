@@ -26,10 +26,12 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=3&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,50:0059B2,100:E23636&height=3&section=header"/>
 </p>
 
-# Sobre Mí
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E23636,50:0059B2,100:E23636&height=55&text=Sobre%20Mí&fontColor=ffffff&fontSize=26&fontAlignY=65" alt="Sobre Mí"/>
+</h3>
 
 <img align="right" width="250" src="spiderman_coding.gif" alt="Spider-Man coding"/>
 
@@ -46,10 +48,12 @@ Me apasiona desarrollar soluciones donde el **hardware y el software trabajan ju
 <br clear="right"/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,50:0059B2,100:E23636&height=2&section=header"/>
 </p>
 
-# Tecnologías y Herramientas
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E23636,50:0059B2,100:E23636&height=55&text=Tecnologías%20y%20Herramientas&fontColor=ffffff&fontSize=26&fontAlignY=65" alt="Tecnologías y Herramientas"/>
+</h3>
 
 <div align="center">
 
@@ -67,10 +71,12 @@ Me apasiona desarrollar soluciones donde el **hardware y el software trabajan ju
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,50:0059B2,100:E23636&height=2&section=header"/>
 </p>
 
-# Proyectos Destacados
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E23636,50:0059B2,100:E23636&height=55&text=Proyectos%20Destacados&fontColor=ffffff&fontSize=26&fontAlignY=65" alt="Proyectos Destacados"/>
+</h3>
 
 <table align="center">
 <tr>
@@ -119,10 +125,12 @@ Control del cursor mediante **visión artificial y seguimiento ocular en Python*
 </table>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,50:0059B2,100:E23636&height=2&section=header"/>
 </p>
 
-# Estadísticas de GitHub
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E23636,50:0059B2,100:E23636&height=55&text=Estadísticas%20de%20GitHub&fontColor=ffffff&fontSize=26&fontAlignY=65" alt="Estadísticas de GitHub"/>
+</h3>
 
 <div align="center">
 
@@ -141,10 +149,12 @@ Control del cursor mediante **visión artificial y seguimiento ocular en Python*
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,50:0059B2,100:E23636&height=2&section=header"/>
 </p>
 
-# Objetivo Profesional
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E23636,50:0059B2,100:E23636&height=55&text=Objetivo%20Profesional&fontColor=ffffff&fontSize=26&fontAlignY=65" alt="Objetivo Profesional"/>
+</h3>
 
 Mi objetivo es desarrollarme como **Firmware / Embedded Software Engineer**, participando en proyectos relacionados con:
 
@@ -156,10 +166,12 @@ Mi objetivo es desarrollarme como **Firmware / Embedded Software Engineer**, par
 * Desarrollo de drivers y RTOS
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,50:0059B2,100:E23636&height=2&section=header"/>
 </p>
 
-# Contacto
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E23636,50:0059B2,100:E23636&height=55&text=Contacto&fontColor=ffffff&fontSize=26&fontAlignY=65" alt="Contacto"/>
+</h3>
 
 <div align="center">
 
