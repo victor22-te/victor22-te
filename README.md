@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://github.com/victor22-te">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=Desarrollador+de+Sistemas+Embebidos;Programador+Bare-Metal+y+RTOS;Un+gran+poder+conlleva+un+gran+c%C3%B3digo+embebido" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=Desarrollador+de+Sistemas+Embebidos;Un+gran+poder+conlleva+un+gran+c%C3%B3digo+embebido" alt="Typing SVG" />
     </a>
   </p>
 
@@ -13,8 +13,8 @@
 
   <br><br>
 
-  <a href="mailto:tu-correo-aqui@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:victor22skate@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/villafa%C3%B1a-hern%C3%A1ndez-victor-francisco-109a0135b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br><br>
