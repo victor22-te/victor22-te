@@ -20,7 +20,7 @@
 <br><br>
 
 <div align="center">
-  <img align="right" width="220" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" alt="Spider-Man coding" />
+  <img align="right" width="220" src="spiderman_coding.gif" alt="Spider-Man coding" />
   
   <h2 align="left">🚀 Sobre Mí</h2>
   
