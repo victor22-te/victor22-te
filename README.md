@@ -1,18 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:0D1117&height=220&section=header&text=Victor%20Villafaña&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20|%20Firmware%20Engineering%20|%20Real-Time%20Control&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:E23636,70:1A1A1A,100:0D1117&height=260&section=header&text=Victor%20Villafaña&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Firmware%20Engineering%20%7C%20Real-Time%20Control&descAlignY=62&descAlign=50"/>
 
-<img src="https://media.giphy.com/media/xTiTnHvXHZxIcbTAZI/giphy.gif" width="100%" alt="Spider-Man swinging"/>
-
-# 🕸️ ¡Hola! Soy Victor Villafaña (@victor22-te)
+<h1 align="center">Victor Villafaña</h1>
+<h3 align="center">Embedded Systems • Firmware • Real-Time Control</h3>
 
 <a href="https://github.com/victor22-te">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E23636&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;Firmware+Engineer+in+Progress;STM32+%7C+ESP32+%7C+VHDL+%7C+C;Convirtiendo+hardware+y+software+en+sistemas+reales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=E23636&center=true&vCenter=true&width=900&lines=STM32+%7C+ESP32+%7C+ARM+%7C+VHDL;Bare-Metal+Programming;RTOS+and+Low-Level+Development;Turning+Hardware+into+Working+Systems" alt="Typing SVG"/>
 </a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=victor22-te&label=Profile%20Views&color=E23636&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=victor22-te&label=PROFILE%20VIEWS&color=E23636&style=for-the-badge"/>
 
 <br><br>
 
@@ -26,27 +25,31 @@
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=3&section=header"/>
+</p>
 
-# 🚀 Sobre Mí
+# Sobre Mí
 
 <img align="right" width="250" src="spiderman_coding.gif" alt="Spider-Man coding"/>
 
-Soy estudiante de **Ingeniería Mecatrónica en el IPN**, enfocado en **Sistemas Embebidos, Firmware y Control en Tiempo Real**.
+Soy estudiante de **Ingeniería Mecatrónica en el Instituto Politécnico Nacional**, enfocado en **Sistemas Embebidos, Firmware y Control en Tiempo Real**.
 
 Me apasiona desarrollar soluciones donde el **hardware y el software trabajan juntos**, desde drivers bare-metal y RTOS hasta sistemas de adquisición de datos, automatización y visión por computadora.
 
-* 🔭 Actualmente trabajando con **STM32 (Bare-Metal)** y **ESP32**
-* 🌱 Desarrollando **drivers, librerías y firmware desde cero en C**
-* ⚡ Interesado en **RTOS, arquitectura ARM, VHDL y sistemas industriales**
-* 💼 Buscando oportunidades como **Embedded / Firmware Engineer**
-* 🕸️ *Dato curioso:* depurar registros y periféricos requiere un buen **sentido arácnido**.
+* Actualmente trabajando con **STM32 (Bare-Metal)** y **ESP32**
+* Desarrollando **drivers, librerías y firmware desde cero en C**
+* Interesado en **RTOS, arquitectura ARM, VHDL y sistemas industriales**
+* Buscando oportunidades como **Embedded / Firmware Engineer**
+* Dato curioso: depurar registros y periféricos requiere un buen **sentido arácnido**
 
 <br clear="right"/>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+</p>
 
-# 🛠️ Tecnologías y Herramientas
+# Tecnologías y Herramientas
 
 <div align="center">
 
@@ -63,31 +66,31 @@ Me apasiona desarrollar soluciones donde el **hardware y el software trabajan ju
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+</p>
 
-# 🔬 Proyectos Destacados
+# Proyectos Destacados
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🫀 Lectura ECG STM32
+### Lectura ECG STM32
 
 Monitoreo ECG en tiempo real usando **STM32F401**, procesamiento digital de señales y visualización en **Python**.
 
-🔗 **Repositorio:**
-https://github.com/victor22-te/Lectura-ECG-STM32
+**Repositorio:** <a href="https://github.com/victor22-te/Lectura-ECG-STM32">Lectura-ECG-STM32</a>
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Portafolio RTOS & Bare-Metal
+### Portafolio RTOS & Bare-Metal
 
 Programación **Bare-Metal en C para STM32F4**, incluyendo GPIO, EXTI, USART, SysTick y arquitectura ARM.
 
-🔗 **Repositorio:**
-https://github.com/victor22-te/embedded-systems-rtos-stm32
+**Repositorio:** <a href="https://github.com/victor22-te/embedded-systems-rtos-stm32">embedded-systems-rtos-stm32</a>
 
 </td>
 </tr>
@@ -95,31 +98,31 @@ https://github.com/victor22-te/embedded-systems-rtos-stm32
 <tr>
 <td width="50%">
 
-### 🚁 Control PID para Dron
+### Control PID para Dron
 
 Sistema de estabilización del ángulo de alabeo utilizando **ESP32 + MPU6050 + Control PID**.
 
-🔗 **Repositorio:**
-https://github.com/victor22-te/Control-de-Alabeo-para-Dron
+**Repositorio:** <a href="https://github.com/victor22-te/Control-de-Alabeo-para-Dron">Control-de-Alabeo-para-Dron</a>
 
 </td>
 
 <td width="50%">
 
-### 👁️ Eye-Tracking Mouse
+### Eye-Tracking Mouse
 
 Control del cursor mediante **visión artificial y seguimiento ocular en Python**.
 
-🔗 **Repositorio:**
-https://github.com/victor22-te/eye-tracking-mouse-control
+**Repositorio:** <a href="https://github.com/victor22-te/eye-tracking-mouse-control">eye-tracking-mouse-control</a>
 
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+</p>
 
-# 📊 Estadísticas de GitHub
+# Estadísticas de GitHub
 
 <div align="center">
 
@@ -137,11 +140,13 @@ https://github.com/victor22-te/eye-tracking-mouse-control
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+</p>
 
-# 🎯 Objetivo Profesional
+# Objetivo Profesional
 
-Mi objetivo es desarrollarme como **Firmware / Embedded Software Engineer**, trabajando en proyectos de:
+Mi objetivo es desarrollarme como **Firmware / Embedded Software Engineer**, participando en proyectos relacionados con:
 
 * Sistemas embebidos
 * Control en tiempo real
@@ -150,16 +155,18 @@ Mi objetivo es desarrollarme como **Firmware / Embedded Software Engineer**, tra
 * Arquitectura ARM
 * Desarrollo de drivers y RTOS
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:0D1117&height=2&section=header"/>
+</p>
 
-# 📬 Contacto
+# Contacto
 
 <div align="center">
 
 Si estás buscando a alguien apasionado por los **microcontroladores, firmware, automatización y sistemas embebidos**, estaré encantado de colaborar.
 
-**"Tu amigable vecino desarrollador de embebidos"** 🕸️
+**"Tu amigable vecino desarrollador de embebidos"**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:E23636,70:1A1A1A,100:0D1117&height=120&section=footer"/>
 
 </div>
