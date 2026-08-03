@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:E23636,70:1A1A1A,100:0D1117&height=260&section=header&text=Victor%20Villafaña&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Firmware%20Engineering%20%7C%20Real-Time%20Control&descAlignY=62&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:0059B2,100:E23636&height=260&section=header&text=Victor%20Villafaña&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Firmware%20Engineering%20%7C%20Real-Time%20Control&descAlignY=62&descAlign=50"/>
 
 <h1 align="center">Victor Villafaña</h1>
 <h3 align="center">Embedded Systems • Firmware • Real-Time Control</h3>
@@ -179,6 +179,6 @@ Si estás buscando a alguien apasionado por los **microcontroladores, firmware, 
 
 **"Tu amigable vecino desarrollador de embebidos"**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:E23636,70:1A1A1A,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:0059B2,100:E23636&height=120&section=footer"/>
 
 </div>
