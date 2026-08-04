@@ -47,18 +47,18 @@ Me interesa el punto exacto donde **el hardware y el software se encuentran**: d
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,powershell,linux,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,powershell,linux,git,github,vscode&theme=dark&perline=6"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STM32-0A0A0F?style=for-the-badge&logo=stmicroelectronics&logoColor=C81E3A"/>
-<img src="https://img.shields.io/badge/ESP32-0A0A0F?style=for-the-badge&logo=espressif&logoColor=C81E3A"/>
-<img src="https://img.shields.io/badge/FreeRTOS-0A0A0F?style=for-the-badge&logo=freertos&logoColor=C81E3A"/>
-<img src="https://img.shields.io/badge/ARM-0A0A0F?style=for-the-badge&logo=arm&logoColor=C81E3A"/>
-<img src="https://img.shields.io/badge/AVR-0A0A0F?style=for-the-badge&logo=microchip&logoColor=C81E3A"/>
-<img src="https://img.shields.io/badge/Arduino-0A0A0F?style=for-the-badge&logo=arduino&logoColor=C81E3A"/>
-<img src="https://img.shields.io/badge/VHDL-0A0A0F?style=for-the-badge&logoColor=C81E3A"/>
-<img src="https://img.shields.io/badge/MATLAB-0A0A0F?style=for-the-badge&logo=mathworks&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/STM32-0A0A0F?style=flat-square&logo=stmicroelectronics&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/ESP32-0A0A0F?style=flat-square&logo=espressif&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/FreeRTOS-0A0A0F?style=flat-square&logo=freertos&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/ARM-0A0A0F?style=flat-square&logo=arm&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/AVR-0A0A0F?style=flat-square&logo=microchip&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/Arduino-0A0A0F?style=flat-square&logo=arduino&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/VHDL-0A0A0F?style=flat-square&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/MATLAB-0A0A0F?style=flat-square&logo=mathworks&logoColor=C81E3A"/>
 
 </div>
 
