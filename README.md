@@ -16,7 +16,7 @@
 
 <div align="left">
   <img src="assets/spiderman-columpiandose.gif" width="70"/><br>
-  <code>01_about.c</code>
+  <img src="https://img.shields.io/badge/-%3E_.%2F01__about-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
 </div>
 
 <sub><i>// quién soy</i></sub>
@@ -33,7 +33,7 @@ Me interesa el punto exacto donde el hardware y el software se encuentran — dr
 
 <br>
 
-<code>02_stack.h</code>
+<img src="https://img.shields.io/badge/-%3E_.%2F02__stack-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
 
 <sub><i>// lenguajes y herramientas</i></sub>
 
@@ -54,7 +54,7 @@ Me interesa el punto exacto donde el hardware y el software se encuentran — dr
 
 <img src="assets/spiderman_coding.gif" width="130" align="right" alt="Spiderman coding"/>
 
-<code>03_projects.log</code>
+<img src="https://img.shields.io/badge/-%3E_.%2F03__projects-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
 
 <sub><i>// proyectos fijados</i></sub>
 
@@ -103,7 +103,7 @@ Control de cursor por seguimiento ocular — visión artificial en Python con Op
 
 <br>
 
-<code>04_stats.sh</code>
+<img src="https://img.shields.io/badge/-%3E_.%2F04__stats-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
 
 <sub><i>// actividad</i></sub>
 
@@ -122,7 +122,7 @@ Control de cursor por seguimiento ocular — visión artificial en Python con Op
 
 <br>
 
-<code>05_objective.md</code>
+<img src="https://img.shields.io/badge/-%3E_.%2F05__objective-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
 
 <sub><i>// hacia dónde voy</i></sub>
 
@@ -137,7 +137,7 @@ Control de cursor por seguimiento ocular — visión artificial en Python con Op
 
 <br>
 
-<code>06_contact.sh</code>
+<img src="https://img.shields.io/badge/-%3E_.%2F06__contact-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
 
 <div align="center">
 
