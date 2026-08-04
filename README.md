@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=C81E3A&center=true&vCenter=true&width=720&lines=STM32+%C2%B7+ESP32+%C2%B7+ARM+%C2%B7+VHDL;Bare-Metal+Programming;RTOS+%26+Real-Time+Control;Hardware+meets+Software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=C81E3A&center=true&vCenter=true&width=720&lines=Bienvenido+a+mi+perfil+de+GitHub;Transformando+hardware+en+soluciones;Apasionado+por+la+Automatizacion;Innovacion+y+Control+Continuo" alt="Typing SVG"/>
 
 </div>
 
@@ -180,7 +180,7 @@ Si buscas a alguien con pasión por **microcontroladores, firmware y sistemas em
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1400&color=C81E3A&center=true&vCenter=true&width=500&lines=Let%27s+build+something+awesome!;Ready+for+new+challenges!;Hablemos!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1400&color=C81E3A&center=true&vCenter=true&width=500&lines=%C2%BFTienes+un+proyecto+en+mente?;%C2%A1Siempre+abierto+a+nuevos+retos!;%C2%A1Hablemos!" alt="Typing SVG"/>
 
 <br><br>
 
