@@ -64,8 +64,6 @@ Me interesa el punto exacto donde **el hardware y el software se encuentran**: d
 
 <br>
 
-<img src="assets/spiderman_coding.gif" width="130" align="right" alt="Spiderman coding"/>
-
 <img src="https://img.shields.io/badge/-%3E_.%2F03__projects-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>   <i>// proyectos fijados</i>
 
 <table>
