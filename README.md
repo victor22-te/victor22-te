@@ -47,7 +47,7 @@ Me interesa el punto exacto donde **el hardware y el software se encuentran**: d
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,powershell,linux,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,powershell,linux,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
