@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=C81E3A&center=true&vCenter=true&width=720&lines=Bienvenido+a+mi+perfil+de+GitHub;Transformando+hardware+en+soluciones;Apasionado+por+la+Automatizacion;Innovacion+y+Control+Continuo" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=C81E3A&center=true&vCenter=true&width=720&lines=Bienvenido+a+mi+perfil;Embedded+Systems+Developer;STM32+%7C+ESP32+%7C+ARM+%7C+VHDL;RTOS+and+Low-Level+Development" alt="Typing SVG"/>
 
 </div>
 
