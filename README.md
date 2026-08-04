@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-%3E_.%2F01__about-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// quién soy</i>
 </div>
 
-Soy estudiante de **Ingeniería Mecatrónica en el Instituto Politécnico Nacional**, enfocado en **sistemas embebidos, firmware y control en tiempo real**.
+Soy **Desarrollador de Firmware y Sistemas Embebidos**, próximo a graduarme como **Ingeniero Mecatrónico por el Instituto Politécnico Nacional**.
 
 Me interesa el punto exacto donde **el hardware y el software se encuentran**: drivers bare-metal, RTOS, adquisición de datos, protocolos de comunicación y automatización industrial.
 
