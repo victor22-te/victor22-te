@@ -59,6 +59,7 @@ Me interesa el punto exacto donde **el hardware y el software se encuentran**: d
 <img src="https://img.shields.io/badge/Arduino-0A0A0F?style=for-the-badge&logo=arduino&logoColor=C81E3A"/>
 <img src="https://img.shields.io/badge/VHDL-0A0A0F?style=for-the-badge&logoColor=C81E3A"/>
 <img src="https://img.shields.io/badge/MATLAB-0A0A0F?style=for-the-badge&logo=mathworks&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/Antigravity_AI-0A0A0F?style=for-the-badge&logo=rocket&logoColor=C81E3A"/>
 
 </div>
 
