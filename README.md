@@ -102,8 +102,8 @@ Control de cursor por seguimiento ocular — visión artificial en Python con Op
 <img src="https://img.shields.io/badge/-%3E_.%2F04__stats-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// actividad</i>
 
 <div align="center"> 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=victor22-te&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=C81E3A&icon_color=C81E3A&text_color=EDEDEF&cache_seconds=1800"/> 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor22-te&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=C81E3A&text_color=EDEDEF&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victor22-te&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=C81E3A&icon_color=C81E3A&text_color=EDEDEF&cache_seconds=1800"/> 
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victor22-te&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=C81E3A&text_color=EDEDEF&cache_seconds=1800"/>
 
 <br/><br/>
 
