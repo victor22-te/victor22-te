@@ -16,29 +16,25 @@
 
 <div align="left">
   <img src="assets/spiderman-columpiandose.gif" width="70"/><br>
-  <img src="https://img.shields.io/badge/-%3E_.%2F01__about-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
+  <img src="https://img.shields.io/badge/-%3E_.%2F01__about-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// quién soy</i>
 </div>
-
-<sub><i>// quién soy</i></sub>
 
 Estudiante de **Ingeniería Mecatrónica en el Instituto Politécnico Nacional**, enfocado en **sistemas embebidos, firmware y control en tiempo real**.
 
 Me interesa el punto exacto donde el hardware y el software se encuentran — drivers bare-metal, RTOS, adquisición de datos y automatización.
 
-* 🕷️ Construyendo firmware bare-metal en **C para STM32 y ESP32**
-* 🕸️ Escribiendo drivers y librerías desde el registro, sin depender de HAL cuando el proyecto lo permite
-* ⚡ Explorando **RTOS, arquitectura ARM y VHDL**
-* 💻 Buscando oportunidades como **Embedded / Firmware Engineer**
-* 🕷️ Dato curioso: depurar registros y periféricos requiere buen sentido arácnido
+* Construyendo firmware bare-metal en **C para STM32 y ESP32**
+* Escribiendo drivers y librerías desde el registro, sin depender de HAL cuando el proyecto lo permite
+* Explorando **RTOS, arquitectura ARM y VHDL**
+* Buscando oportunidades como **Embedded / Firmware Engineer**
+* Dato curioso: depurar registros y periféricos requiere buen sentido arácnido
 
 <br>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F02__stack-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
-
-<sub><i>// lenguajes y herramientas</i></sub>
+<img src="https://img.shields.io/badge/-%3E_.%2F02__stack-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// lenguajes y herramientas</i>
 
 <div align="center"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,powershell,linux,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
@@ -46,6 +42,8 @@ Me interesa el punto exacto donde el hardware y el software se encuentran — dr
 <img src="https://img.shields.io/badge/ESP32-0A0A0F?style=for-the-badge&logo=espressif&logoColor=C81E3A"/> 
 <img src="https://img.shields.io/badge/FreeRTOS-0A0A0F?style=for-the-badge&logo=freertos&logoColor=C81E3A"/> 
 <img src="https://img.shields.io/badge/ARM-0A0A0F?style=for-the-badge&logo=arm&logoColor=C81E3A"/> 
+<img src="https://img.shields.io/badge/AVR-0A0A0F?style=for-the-badge&logo=microchip&logoColor=C81E3A"/> 
+<img src="https://img.shields.io/badge/Arduino-0A0A0F?style=for-the-badge&logo=arduino&logoColor=C81E3A"/> 
 <img src="https://img.shields.io/badge/VHDL-0A0A0F?style=for-the-badge&logoColor=C81E3A"/> 
 <img src="https://img.shields.io/badge/MATLAB-0A0A0F?style=for-the-badge&logo=mathworks&logoColor=C81E3A"/> 
 </div>
@@ -54,15 +52,13 @@ Me interesa el punto exacto donde el hardware y el software se encuentran — dr
 
 <img src="assets/spiderman_coding.gif" width="130" align="right" alt="Spiderman coding"/>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F03__projects-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
-
-<sub><i>// proyectos fijados</i></sub>
+<img src="https://img.shields.io/badge/-%3E_.%2F03__projects-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// proyectos fijados</i>
 
 <table> 
 <tr> 
 <td width="50%" valign="top">
 
-### 🫀 Lectura ECG STM32 
+### Lectura ECG STM32 
 ECG en tiempo real con STM32F401 — filtrado DSP (notch, pasa-banda) y visualización en vivo en Python. 
 <br>
 `STM32` `DSP` `Python` 
@@ -71,7 +67,7 @@ ECG en tiempo real con STM32F401 — filtrado DSP (notch, pasa-banda) y visualiz
 </td> 
 <td width="50%" valign="top">
 
-### ⚙️ Bare-Metal & RTOS — STM32 
+### Bare-Metal & RTOS — STM32 
 Firmware en C puro sobre STM32F4: GPIO, EXTI, USART, SysTick, arquitectura ARM — construido desde el registro. 
 <br>
 `C` `STM32F4` `ARM` 
@@ -82,7 +78,7 @@ Firmware en C puro sobre STM32F4: GPIO, EXTI, USART, SysTick, arquitectura ARM �
 <tr> 
 <td width="50%" valign="top">
 
-### 🚁 Control de Alabeo — Dron 
+### Control de Alabeo — Dron 
 Estabilización de roll con ESP32 + MPU6050 — control PID en tiempo real. 
 <br>
 `ESP32` `PID` `MPU6050` 
@@ -91,7 +87,7 @@ Estabilización de roll con ESP32 + MPU6050 — control PID en tiempo real.
 </td> 
 <td width="50%" valign="top">
 
-### 👁️ Eye-Tracking Mouse Control 
+### Eye-Tracking Mouse Control 
 Control de cursor por seguimiento ocular — visión artificial en Python con OpenCV. 
 <br>
 `Python` `OpenCV` `Accessibility` 
@@ -103,9 +99,7 @@ Control de cursor por seguimiento ocular — visión artificial en Python con Op
 
 <br>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F04__stats-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
-
-<sub><i>// actividad</i></sub>
+<img src="https://img.shields.io/badge/-%3E_.%2F04__stats-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// actividad</i>
 
 <div align="center"> 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=victor22-te&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=C81E3A&icon_color=C81E3A&text_color=EDEDEF&cache_seconds=1800"/> 
@@ -122,9 +116,7 @@ Control de cursor por seguimiento ocular — visión artificial en Python con Op
 
 <br>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F05__objective-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
-
-<sub><i>// hacia dónde voy</i></sub>
+<img src="https://img.shields.io/badge/-%3E_.%2F05__objective-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// hacia dónde voy</i>
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/-Sistemas%20Embebidos-14141C?style=flat-square"/> 
@@ -137,7 +129,7 @@ Control de cursor por seguimiento ocular — visión artificial en Python con Op
 
 <br>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F06__contact-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>
+<img src="https://img.shields.io/badge/-%3E_.%2F06__contact-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// redes y contacto</i>
 
 <div align="center">
 
