@@ -119,7 +119,18 @@ Control de cursor mediante **seguimiento ocular y visión artificial con OpenCV*
 
 <br>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F04__stats-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>   <i>// actividad</i>
+<img src="https://img.shields.io/badge/-%3E_.%2F04__experience-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// experiencia y proyectos industriales</i>
+
+* **Desarrollador de Software** | *NTLINK Comunicaciones* (May. 2026 – Presente)
+  *Desarrollo de herramientas y scripts para procesamiento y validación de CFDIs (Facturación Electrónica), automatización de procesos internos mediante PowerShell y gestión de comprobantes fiscales.*
+
+* **Ingeniería de Control y Automatización** | *Fábrica de Velas "La Gloria"* (Jul. 2025 – Dic. 2025)
+  * **Etiquetadora Industrial:** Diseño, arquitectura y programación desde cero de la lógica de control basada en PLC para la sincronización de sensores y actuadores.
+  * **Empaviladora Automática:** Colaboración directa con ingeniería mecánica para la digitalización del sistema de control; migración completa de un sistema de lógica de relés a automatización por PLC.
+
+<br>
+
+<img src="https://img.shields.io/badge/-%3E_.%2F05__stats-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>   <i>// actividad</i>
 
 <div align="center">
 
@@ -137,7 +148,7 @@ Control de cursor mediante **seguimiento ocular y visión artificial con OpenCV*
 
 <br>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F05__objective-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>   <i>// hacia dónde voy</i>
+<img src="https://img.shields.io/badge/-%3E_.%2F06__objective-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>   <i>// hacia dónde voy</i>
 
 <div align="center">
 
@@ -154,7 +165,7 @@ Mi objetivo es desarrollarme como **Firmware / Embedded Software Engineer**, par
 
 <br>
 
-<img src="https://img.shields.io/badge/-%3E_.%2F06__contact-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>   <i>// redes y contacto</i>
+<img src="https://img.shields.io/badge/-%3E_.%2F07__contact-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/>   <i>// redes y contacto</i>
 
 <div align="center">
 
