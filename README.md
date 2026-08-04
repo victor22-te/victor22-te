@@ -34,7 +34,7 @@ Me interesa el punto exacto donde el hardware y el software se encuentran — dr
 <img src="https://img.shields.io/badge/-%3E_.%2F02__stack-0A0A0F?style=for-the-badge&logo=windows-terminal&logoColor=C81E3A"/> &nbsp; <i>// lenguajes y herramientas</i>
 
 <div align="center"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,powershell,linux,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,powershell,linux,git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
